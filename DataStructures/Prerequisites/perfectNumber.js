@@ -1,4 +1,7 @@
 function perfectNumber(num){
+    if(num === 1){
+        return `${num} is not a perfect number`
+    }
     let sum = 1;
     for(i=2; i<num; i++){
         if(num % i === 0){
