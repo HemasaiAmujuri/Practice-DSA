@@ -1,3 +1,5 @@
+//A perfect number is a positive integer that is equal to the sum of its proper divisors (except itself)
+
 function perfectNumber(num){
     if(num === 1){
         return `${num} is not a perfect number`

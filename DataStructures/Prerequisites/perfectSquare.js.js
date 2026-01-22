@@ -1,3 +1,4 @@
+//A perfect square is a number that can be expressed as the square of an integer.
 function perfectSquare(num){
     for(i=1; i*i <= num; i++){
         if(i*i === num){

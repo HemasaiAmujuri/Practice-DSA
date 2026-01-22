@@ -1,3 +1,5 @@
+//A Harshad number (also called a Niven number) is a number that is divisible by the sum of its digits.
+
 function harshadNumber(num){
     let sum = 0
     let original = num

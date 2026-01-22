@@ -1,5 +1,5 @@
-                     //for numbers
-
+  //A palindrome number is a number that reads the same forward and backward.
+  //for numbers
 
 let num  = 14410;
 let rev = 0;

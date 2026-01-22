@@ -1,3 +1,4 @@
+//A Strong Number is a number such that the sum of the factorials of its digits is equal to the number itself.
 function strongNumber(num){
 
     let original = num;
