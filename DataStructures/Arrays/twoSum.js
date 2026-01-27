@@ -1,3 +1,5 @@
+//Two Sum: Given an array of numbers (nums) and a target number, find the indices of two numbers in the array that add up to the target.
+
 function twoSum(nums){
    for(let i =0; i< nums.length-1; i++){
       for(let j=i+1; j< nums.length; j++){

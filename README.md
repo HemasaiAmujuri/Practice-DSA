@@ -16,12 +16,12 @@ Data Structures                                  Algorithms
 
 
 Prerequisites                      Strings                Arrays    
-1.evenOrOdd                    1.reverseOfAString      1.
-2.countDigitsOfANumber         2.validPalindrome
-3.greatesOfTwoNumbers
-4.greatestOfThreenumbers
-5.divisorsOfANumber
-6.factorialOfANumber
+1.evenOrOdd                    1.reverseOfAString      1.containDuplicates
+2.countDigitsOfANumber         2.validPalindrome       2.removeDuplicates
+3.greatesOfTwoNumbers                                  3.nth largest number
+4.greatestOfThreenumbers                               4.reverseArray
+5.divisorsOfANumber                                    5.productOfArrayExceptItself
+6.factorialOfANumber                                   6.twoSum            
 7.coPrimes
 8.harsharNumber
 9.hcfOfTwoNumbers
