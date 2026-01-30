@@ -41,3 +41,4 @@ Prerequisites                      Strings                Arrays
 23.sumOfNaturalNumbersGivenRange
 24.swappingOfTwoNumbers
 25.countDistinctElements
+26.armStrongNumber
