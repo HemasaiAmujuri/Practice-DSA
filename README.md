@@ -42,3 +42,5 @@ Prerequisites                      Strings                Arrays
 24.swappingOfTwoNumbers
 25.countDistinctElements
 26.armStrongNumber
+27.evenNumbersWithOutModulusOperator
+28.FizzBuzzProblem
