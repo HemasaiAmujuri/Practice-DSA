@@ -15,10 +15,10 @@ Data Structures                                  Algorithms
 - Graphs
 
 
-Prerequisites                      Strings                Arrays    
-1.evenOrOdd                    1.reverseOfAString      1.containDuplicates
-2.countDigitsOfANumber         2.validPalindrome       2.removeDuplicates
-3.greatesOfTwoNumbers                                  3.nth largest number
+Prerequisites                      Strings                Arrays                                              Patterns
+1.evenOrOdd                    1.reverseOfAString      1.containDuplicates                               1.rightAngleTriangle
+2.countDigitsOfANumber         2.validPalindrome       2.removeDuplicates                                2.reverseRightAngleTriangle
+3.greatesOfTwoNumbers                                  3.nth largest number                              3.halfPyramidPattern.js
 4.greatestOfThreenumbers                               4.reverseArray
 5.divisorsOfANumber                                    5.productOfArrayExceptItself
 6.factorialOfANumber                                   6.twoSum            
