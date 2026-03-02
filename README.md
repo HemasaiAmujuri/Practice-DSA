@@ -22,7 +22,7 @@ Prerequisites                      Strings                Arrays                
 4.greatestOfThreenumbers                               4.reverseArray
 5.divisorsOfANumber                                    5.productOfArrayExceptItself
 6.factorialOfANumber                                   6.twoSum            
-7.coPrimes                                    
+7.coPrimes                                             7.movingZeroesEndOfTheArray
 8.harsharNumber
 9.hcfOfTwoNumbers
 10.lcmOfTwoNumbers
