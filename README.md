@@ -24,7 +24,7 @@ Prerequisites                      Strings                Arrays                
 6.factorialOfANumber                                   6.twoSum            
 7.coPrimes                                             7.movingZeroesEndOfTheArray
 8.harsharNumber                                        8.solvedPeakElement
-9.hcfOfTwoNumbers
+9.hcfOfTwoNumbers                                      9.missingNumber
 10.lcmOfTwoNumbers
 11.leapYear
 12.palindroneNumber
