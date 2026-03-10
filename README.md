@@ -23,9 +23,9 @@ Prerequisites                      Strings                Arrays                
 5.divisorsOfANumber                                    5.productOfArrayExceptItself
 6.factorialOfANumber                                   6.twoSum            
 7.coPrimes                                             7.movingZeroesEndOfTheArray
-8.harsharNumber                                        8.solvedPeakElement
+8.harshadNumber                                        8.solvedPeakElement
 9.hcfOfTwoNumbers                                      9.missingNumber
-10.lcmOfTwoNumbers
+10.lcmOfTwoNumbers                                     10.HighestMaximumElementInAArray
 11.leapYear
 12.palindroneNumber
 13.perfectNumber
