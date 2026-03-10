@@ -44,3 +44,5 @@ Prerequisites                      Strings                Arrays                
 26.armStrongNumber
 27.evenNumbersWithOutModulusOperator
 28.FizzBuzzProblem
+29.closestDivisibleNumber
+30.oppositeSideOfDiceProblem
