@@ -2,30 +2,30 @@
 
 Data Structures                                  Algorithms
 --------------                                  ----------
-- Prerequisites                                 - Sorting
-- Patterns                                      - Searching
+- Prerequisites                                 - Searching
+- Patterns                                      - Sorting
 - Strings                                       - Two Pointers
-- Time-Complexity                               - Sliding Window
-- Space-Complexity                              - Recursion & Backtracking
-- Arrays                                        - Greedy Algorithms
-- LinkedLists                                   - Divide & Conquer
+- Arrays                                        - Sliding Window
+- LinkedLists                                   - Recursion
 - Stacks                                        - Bit Manipulation
-- Queues                                        - Dynamic Programming
-- Trees
-- Graphs
+- Queues                                       
+                                        
+                                       
 
 
-Prerequisites                      Strings                Arrays                                              Patterns
-1.evenOrOdd                    1.reverseOfAString      1.containDuplicates                               1.rightAngleTriangle
-2.countDigitsOfANumber         2.validPalindrome       2.removeDuplicates                                2.reverseRightAngleTriangle
-3.greatesOfTwoNumbers                                  3.nth largest number                              3.halfPyramidPattern.js
-4.greatestOfThreenumbers                               4.reverseArray
-5.divisorsOfANumber                                    5.productOfArrayExceptItself
-6.factorialOfANumber                                   6.twoSum            
-7.coPrimes                                             7.movingZeroesEndOfTheArray
-8.harshadNumber                                        8.solvedPeakElement
-9.hcfOfTwoNumbers                                      9.missingNumber
-10.lcmOfTwoNumbers                                     10.HighestMaximumElementInAArray
+
+
+Prerequisites                                                                              
+1.evenOrOdd                                                    
+2.countDigitsOfANumber
+3.greatesOfTwoNumbers                                       
+4.greatestOfThreenumbers                              
+5.divisorsOfANumber                                    
+6.factorialOfANumber                                             
+7.coPrimes                                             
+8.harshadNumber                                        
+9.hcfOfTwoNumbers                                      
+10.lcmOfTwoNumbers                                     
 11.leapYear
 12.palindroneNumber
 13.perfectNumber
@@ -46,3 +46,42 @@ Prerequisites                      Strings                Arrays                
 28.FizzBuzzProblem
 29.closestDivisibleNumber
 30.oppositeSideOfDiceProblem
+
+
+Patterns
+1.rightAngleTriangle
+2.reverseRightAngleTriangle
+3.halfPyramidPattern.js
+
+
+Strings
+1.reverseOfAString
+2.validPalindrome
+
+
+
+Arrays
+1.containDuplicates
+2.removeDuplicates                                                              
+3.nth largest 
+4.reverseArray
+5.productOfArrayExceptItself
+6.twoSum
+7.movingZeroesEndOfTheArray
+8.solvedPeakElement
+9.missingNumber
+10.HighestMaximumElementInAArray
+
+
+LinkedList
+
+
+Stack
+
+
+Queues
+
+
+
+
+
