@@ -58,7 +58,7 @@ Strings
 1.reverseOfAString
 2.validPalindrome
 3.sequenceCounter
-
+4.frequencyCounter
 
 
 Arrays
