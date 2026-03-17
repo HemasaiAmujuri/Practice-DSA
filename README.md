@@ -78,7 +78,7 @@ LinkedList
 
 
 Stack
-
+1.validParanthesis
 
 Queues
 
