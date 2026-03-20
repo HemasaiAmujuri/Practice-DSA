@@ -72,6 +72,7 @@ Arrays
 8.solvedPeakElement
 9.missingNumber
 10.HighestMaximumElementInAArray
+11.countPositiveNegativeAndZeros
 
 
 LinkedList
