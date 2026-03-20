@@ -73,6 +73,7 @@ Arrays
 9.missingNumber
 10.HighestMaximumElementInAArray
 11.countPositiveNegativeAndZeros
+12.sumOfArrayElements
 
 
 LinkedList
