@@ -46,6 +46,7 @@ Prerequisites
 28.FizzBuzzProblem
 29.closestDivisibleNumber
 30.oppositeSideOfDiceProblem
+31.AnagramStrings
 
 
 Patterns
@@ -59,6 +60,7 @@ Strings
 2.validPalindrome
 3.sequenceCounter
 4.frequencyCounter
+5.wordsInStrings
 
 
 Arrays
