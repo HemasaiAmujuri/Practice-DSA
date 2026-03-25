@@ -76,6 +76,7 @@ Arrays
 10.HighestMaximumElementInAArray
 11.countPositiveNegativeAndZeros
 12.sumOfArrayElements
+13.sortedArrayAfterSquares
 
 
 LinkedList
