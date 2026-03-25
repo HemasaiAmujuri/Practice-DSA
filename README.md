@@ -61,6 +61,7 @@ Strings
 3.sequenceCounter
 4.frequencyCounter
 5.wordsInStrings
+6.findExtraCharacter
 
 
 Arrays
