@@ -79,6 +79,7 @@ Arrays
 12.sumOfArrayElements
 13.sortedArrayAfterSquares
 14.milesToKilometers
+15.flattenArray
 
 
 LinkedList
