@@ -80,6 +80,7 @@ Arrays
 13.sortedArrayAfterSquares
 14.milesToKilometers
 15.flattenArray
+16.FirstDuplicateElementsInArray
 
 
 LinkedList
