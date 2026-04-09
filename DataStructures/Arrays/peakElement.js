@@ -12,3 +12,6 @@ function peakElement(nums){
 
 const nums = [10, 20, 15, 2, 23, 90, 80]
 console.log(peakElement(nums));
+
+
+//A peak element in an array is an element that is greater than or equal to its neighbors.

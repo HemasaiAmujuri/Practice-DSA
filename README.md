@@ -81,6 +81,9 @@ Arrays
 14.milesToKilometers
 15.flattenArray
 16.FirstDuplicateElementsInArray
+17.maximumNumberInAnArray
+18.mergeAndSortArrays
+19.peakElement
 
 
 LinkedList
