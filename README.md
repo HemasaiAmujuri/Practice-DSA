@@ -7,7 +7,7 @@ Data Structures                                  Algorithms
 - Strings                                       - Two Pointers
 - Arrays                                        - Sliding Window
 - LinkedLists                                   - Recursion
-- Stacks                                        - Bit Manipulation
+- Stacks                                      
 - Queues                                       
                                         
                                        
