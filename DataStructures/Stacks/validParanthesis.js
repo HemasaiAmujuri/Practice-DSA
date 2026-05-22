@@ -17,9 +17,9 @@ function isValidParanthesis(str){
              stack.pop()
         }
     }
-    return stack.length === 0 
+    return stack.length === 0 //empty → return true
 }
 
 
-const str = "([])"
+const str = "([])"  
 console.log(isValidParanthesis(str))
