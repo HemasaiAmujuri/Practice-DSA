@@ -47,6 +47,7 @@ Prerequisites
 29.closestDivisibleNumber
 30.oppositeSideOfDiceProblem
 31.AnagramStrings
+32.RomanToInteger
 
 
 Patterns
