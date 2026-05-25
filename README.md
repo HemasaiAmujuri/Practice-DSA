@@ -15,8 +15,8 @@ Data Structures                                  Algorithms
 
 
 
-Prerequisites                                                                              
-1.evenOrOdd                                                    
+Prerequisites                                  Searching
+1.evenOrOdd                                   1. Linear Search               
 2.countDigitsOfANumber
 3.greatesOfTwoNumbers                                       
 4.greatestOfThreenumbers                              
