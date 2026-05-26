@@ -15,13 +15,13 @@ Data Structures                                  Algorithms
 
 
 
-Prerequisites                                  Searching
-1.evenOrOdd                                   1. Linear Search               
+Prerequisites                       Searching
+1.evenOrOdd                       1. Linear Search               
 2.countDigitsOfANumber
 3.greatesOfTwoNumbers                                       
-4.greatestOfThreenumbers                              
-5.divisorsOfANumber                                    
-6.factorialOfANumber                                             
+4.greatestOfThreenumbers              Recursion           
+5.divisorsOfANumber                1.factorialNumber                            
+6.factorialOfANumber               2.fibonacciSeries                                   
 7.coPrimes                                             
 8.harshadNumber                                        
 9.hcfOfTwoNumbers                                      
