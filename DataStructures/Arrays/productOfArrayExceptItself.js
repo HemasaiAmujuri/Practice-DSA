@@ -16,12 +16,12 @@ function productOfArrayExceptItself(nums){
 }
 
 
-// const nums = [1,2,3,4,5,6,7,8,9];
+const nums = [1,2,3,4,5,6,7,8,9];
 
-const nums = [-1,1,0,-3,3]
+// const nums = [-1,1,0,-3,3]
+
+// const nums = [0,0,9,0,0]
 
 console.log(productOfArrayExceptItself(nums));
-
-[0,0,9,0,0]
 
 
