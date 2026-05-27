@@ -29,13 +29,13 @@ function anagramStrings(str1, str2){
     console.log(characterOccuranceOfStr2, "2");
 
 
-     for(key in characterOccuranceOfStr1){
+     for(key in characterOccuranceOfStr1){   //anyone loop is fine we can also do for key in characterOccuranceOfStr2
        if(characterOccuranceOfStr1[key] !== characterOccuranceOfStr2[key]){
          return "Not a anagram strings"
        }
    }
 
-   for( let key in characterOccuranceOfStr2){
+   for( let key in characterOccuranceOfStr2){   //anyone loop is fine, we can also do for key in characterOccuranceOfStr1
       if(!(key in characterOccuranceOfStr1)){
         return "Not a Anagram Strings"
       }
